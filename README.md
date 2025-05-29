@@ -1,2 +1,0 @@
-# mcp
-Model Context Protocol 
